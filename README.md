@@ -72,12 +72,6 @@ A *pixel-perfect static clone* of the Zomato landing page, crafted using *HTML5*
 
 ---
 
-## 📸 Screenshots
-
-Add 2-3 screenshots here showing different parts of the page (e.g., Hero section, Features, Final CTA).
-
----
-
 ## 🧠 What I Learned
 
 - How to analyze and replicate complex UI layouts
